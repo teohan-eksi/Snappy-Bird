@@ -1,3 +1,5 @@
+// This useful quit script has been taken from a StackOverflow answer.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
