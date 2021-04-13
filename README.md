@@ -1,3 +1,2 @@
-# Unity-Scripts
+# Scripts for my game
 
-A collection of C# scripts that i and other developers have written.
