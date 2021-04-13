@@ -23,11 +23,6 @@ public class LeftSide : MonoBehaviour
 
 	IEnumerator fillLeftContainer(){
 
-		/* HOW THIS HUMONGOUS FUNCTION WORKS:
-		 * 
-		 *
-		 * */	
-
 		//create a container to put all the blocks and traps into.
 		//later, i just move the container and everything in it moves, too.
 		leftContainer = new GameObject("LeftContainer");
