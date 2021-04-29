@@ -17,9 +17,6 @@ public class Main : MonoBehaviour
 
 		StartCoroutine(mainRoutine());
 			
-		//uiMsg.text = "Loading";
-		//do some loading animation with another script
-		//until the map is ready.
 	}
 
     // Update is called once per frame
