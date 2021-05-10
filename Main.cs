@@ -28,11 +28,6 @@ public class Main : MonoBehaviour
 	IEnumerator mainRoutine(){
 		yield return null;//skips the firts frame. fn 2
 
-/*		uiMsg = GameObject.Find("Text").GetComponent<Text>();
-		uiMsg.text = "start game";
-		Debug.Log("UI message from Main " + Time.frameCount.ToString());
-		*/
-
 		yield return null;//fn 3
 
 		mapBuilder = new GameObject("MapBuilder");
